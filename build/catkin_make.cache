@@ -1,0 +1,2 @@
+controller:joypad:robot_description:spot:spot_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/ashwath/quadruped_robot/devel -DCMAKE_INSTALL_PREFIX=/home/ashwath/quadruped_robot/install -G Unix Makefiles
